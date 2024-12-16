@@ -1,4 +1,4 @@
-If your inventory crashes while making reports [intel](https://www.intel.com/content/www/us/en/support/articles/000098117/processors.html) has some solutions.
+If your inventory crashes while making reports this [Intel support article on processors](https://www.intel.com/content/www/us/en/support/articles/000098117/processors.html) has some solutions.
 
 1. Rule number 1!: Ask yourself is the system up to date? A lot of the times, crashes happen because the system is not up to date. It's not a pretty picture!
 
