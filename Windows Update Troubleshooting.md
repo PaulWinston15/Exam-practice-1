@@ -1,4 +1,4 @@
-The almighty [Microsoft support](https://support.microsoft.com/en-us/windows/windows-update-troubleshooter-19bc41ca-ad72-ae67-af3c-89ce169755dd#WindowsVersion=Windows_10) has provided us with another article to fix our problem.
+The almighty [Microsoft support: Windows Update troubleshooter](https://support.microsoft.com/en-us/windows/windows-update-troubleshooter-19bc41ca-ad72-ae67-af3c-89ce169755dd#WindowsVersion=Windows_10) has provided us with another article to fix our problem.
 
 If you receive an error message about your Windows update, simply follow the steps provided on the article. We ain't never had a friend like this.
 
