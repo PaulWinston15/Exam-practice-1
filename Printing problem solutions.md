@@ -1,6 +1,6 @@
 If you have trouble reconnecting your printer to the network of printers.
 
-[Windows!](https://support.microsoft.com/en-us/windows/fix-printer-connection-and-printing-problems-in-windows-fb830bff-7702-6349-33cd-9443fe987f73#ID0EBF=Windows_10) has it covered.
+[Fix printer connection and orinting problems](https://support.microsoft.com/en-us/windows/fix-printer-connection-and-printing-problems-in-windows-fb830bff-7702-6349-33cd-9443fe987f73#ID0EBF=Windows_10) has it covered.
 
 There are many troubleshooting solutions suggested by Windows that can help solve your problem. 
 
