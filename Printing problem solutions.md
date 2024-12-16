@@ -15,3 +15,4 @@ If your wireless connection between your printer and PC don't work. Ensure that 
 ```
 
 The provided article has additional links to other solutions should any of the presented solutions are not working.
+![blue-wifi-icon-3](https://github.com/user-attachments/assets/e525b7dd-b22a-43ed-a118-e3d14008e577)
